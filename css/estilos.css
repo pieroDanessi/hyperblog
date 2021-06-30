@@ -35,7 +35,7 @@ body
 
 #container
 {
-    width: 70%;
+    width: 90%;
     padding: 0;
     text-align: left;
     border: 1px solid #DDD;
@@ -46,6 +46,11 @@ body
 #container h1 
 {
     font-size: 35px;
+}
+
+#mainImage 
+{
+    width: 70%;
 }
 
 #footer
